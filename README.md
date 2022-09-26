@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lew Jun Long</h1>
-<h3 align="center">An energetic and passionate computer science undergraduate at Asia Pacific University specializing in the field of Artificial Intelligence</h3>
 
+- 👀 I’m interested in **Big Data Analytics and Data science**
 - 🔭 I’m currently working on **Sentiment Analysis of Product Reviews using Machine Learning**
-
+- 🌱 I’m currently a final year student majoring in Computer Science with minor in Intelligent Systems 
+- 💞️ I’m looking to collaborate on **Machine Learning** projects 
 - 📫 How to reach me **junlong7368@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
