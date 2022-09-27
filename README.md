@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lew Jun Long</h1>
 
-- 🌱 I’m currently a final year student majoring in Computer Science with minor in Intelligent Systems 
+- 🌱 I’m currently a final year student majoring in **Computer Science** with minor in **Artificial Intelligence**
 - 👀 I’m interested in **Big Data Analytics and Data science**
 - 🔭 I’m currently working on **Sentiment Analysis of Product Reviews using Machine Learning**
 - 💞️ I’m looking to collaborate on **Machine Learning** projects 
