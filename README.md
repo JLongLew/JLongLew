@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently a final year student majoring in **Computer Science** with minor in **Artificial Intelligence**
 - 👀 I’m interested in **Big Data Analytics and Data science**
-- 🔭 I’m currently working on **Sentiment Analysis of Product Reviews using Machine Learning**
+- 🔭 I’m currently working on **Loan Repayment Analysis**
 - 💞️ I’m looking to collaborate on **Machine Learning** projects 
 - 📫 How to reach me **junlong7368@gmail.com**
 
