@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lew Jun Long</h1>
 
-- 🌱 I’m currently a final year student majoring in **Computer Science** with minor in **Artificial Intelligence**
+- 🌱 I’m currently a data scientist from **PRIZM Group**
 - 👀 I’m interested in **Big Data Analytics and Data science**
-- 🔭 I’m currently working on **Loan Repayment Analysis**
+- 🔭 I’m currently working on **Customer Behaviour Prediction**
 - 💞️ I’m looking to collaborate on **Machine Learning** projects 
 - 📫 How to reach me **junlong7368@gmail.com**
 
