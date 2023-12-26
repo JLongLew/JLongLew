@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lew Jun Long</h1>
+<h1 align="center">Hi 👋, I'm Sunny Lew</h1>
 
 - 🌱 I’m currently a data scientist from **PRIZM Group**
-- 👀 I’m interested in **Big Data Analytics and Data science**
+- 👀 I’m interested in **Big Data Analytics and Data Science**
 - 🔭 I’m currently working on **Customer Behaviour Prediction**
 - 💞️ I’m looking to collaborate on **Machine Learning** projects 
 - 📫 How to reach me **junlong7368@gmail.com**
